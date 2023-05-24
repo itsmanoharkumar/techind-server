@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_tiles",
+  "info": {
+    "displayName": "Tiles",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "tileList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "general.bullet"
+    }
+  }
+}

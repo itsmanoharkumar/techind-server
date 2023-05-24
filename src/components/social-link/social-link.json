@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_social_link_social_links",
+  "info": {
+    "displayName": "Social Link"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    },
+    "socialType": {
+      "type": "enumeration",
+      "enum": [
+        "FACEBOOK",
+        "LINKEDIN",
+        "TWITTER",
+        "INSTAGRAM"
+      ]
+    },
+    "name": {
+      "type": "string"
+    },
+    "logo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

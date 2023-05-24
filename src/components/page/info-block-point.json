@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_page_info_block_point_s",
+  "info": {
+    "displayName": "InfoBlockPoint ",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "bulletList": {
+      "displayName": "bullet",
+      "type": "component",
+      "repeatable": true,
+      "component": "general.bullet"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "imageDirection": {
+      "type": "enumeration",
+      "enum": [
+        "LEFT",
+        "RIGHT"
+      ]
+    },
+    "name": {
+      "type": "richtext"
+    }
+  }
+}

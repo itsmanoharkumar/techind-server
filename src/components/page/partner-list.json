@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_page_partner_lists",
+  "info": {
+    "displayName": "partnerList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "partnerList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "general.bullet"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_page_tech_lists",
+  "info": {
+    "displayName": "techList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "groupName": {
+      "type": "string"
+    }
+  }
+}

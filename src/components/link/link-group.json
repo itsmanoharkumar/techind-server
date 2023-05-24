@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_link_link_groups",
+  "info": {
+    "displayName": "Link Group",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "path": {
+      "type": "string"
+    },
+    "order": {
+      "type": "integer"
+    },
+    "isVisible": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}

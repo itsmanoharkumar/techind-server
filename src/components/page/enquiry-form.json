@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_enquiry_forms",
+  "info": {
+    "displayName": "Enquiry Form"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

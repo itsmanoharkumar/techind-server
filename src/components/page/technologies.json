@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_page_technologies",
+  "info": {
+    "displayName": "Technology",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
